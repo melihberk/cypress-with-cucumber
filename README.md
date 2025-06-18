@@ -41,3 +41,5 @@ cypress
 @bahmutov/cypress-esbuild-preprocessor
 
 .feature dosyalarındaki Gherkin adımları ve step definition dosyaları detaylı olarak cypress/e2e/3-cypressbdd/ klasöründe yer almaktadır.
+
+Detaylı rehber için ilgili Medium yazısına göz atın. https://medium.com/@melihberkk/cypress-ile-bdd-test-otomasyonu-9536201e5b07
